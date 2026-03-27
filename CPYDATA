@@ -1,0 +1,5 @@
+        01 CPY-REGISTRO.            
+           05 DNI        PIC 9(8).  
+           05 NOMBRES    PIC X(24). 
+           05 EDAD       PIC 99.    
+           05 FILLER     PIC X(46).
